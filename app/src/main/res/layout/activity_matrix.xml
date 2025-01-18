@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MatrixActivity">
+
+    <android.widget.Button
+        android:id="@+id/button_7"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="380dp"
+        android:background="@drawable/button_7"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <android.widget.Button
+        android:id="@+id/button_8"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="107dp"
+        android:layout_marginTop="380dp"
+        android:background="@drawable/button_8"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <android.widget.Button
+        android:id="@+id/button_9"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="198dp"
+        android:layout_marginTop="380dp"
+        android:background="@drawable/button_9"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <android.widget.Button
+        android:id="@+id/button_4"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="471dp"
+        android:background="@drawable/button_4"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <android.widget.Button
+        android:id="@+id/button_5"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="107dp"
+        android:layout_marginTop="471dp"
+        android:background="@drawable/button_5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <android.widget.Button
+        android:id="@+id/button_6"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="198dp"
+        android:layout_marginTop="471dp"
+        android:background="@drawable/button_6"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <android.widget.Button
+        android:id="@+id/button_1"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="562dp"
+        android:background="@drawable/button_1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <android.widget.Button
+        android:id="@+id/button_2"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="107dp"
+        android:layout_marginTop="562dp"
+        android:background="@drawable/button_2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <android.widget.Button
+        android:id="@+id/button_3"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="198dp"
+        android:layout_marginTop="562dp"
+        android:background="@drawable/button_3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <android.widget.Button
+        android:id="@+id/button_0"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="653dp"
+        android:background="@drawable/button_0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <android.widget.Button
+        android:id="@+id/button_pt"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="107dp"
+        android:layout_marginTop="653dp"
+        android:background="@drawable/button_pt"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <android.widget.Button
+        android:id="@+id/button_aij"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="198dp"
+        android:layout_marginTop="653dp"
+        android:background="@drawable/button_aij"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <android.widget.Button
+        android:id="@+id/button_minus"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="289dp"
+        android:layout_marginTop="653dp"
+        android:background="@drawable/button_minus"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <android.widget.Button
+        android:id="@+id/button_ac"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="289dp"
+        android:layout_marginTop="380dp"
+        android:background="@drawable/button_c"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <android.widget.Button
+        android:id="@+id/button_i"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="289dp"
+        android:layout_marginTop="562dp"
+        android:background="@drawable/button_i"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <android.widget.Button
+        android:id="@+id/button_o"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginStart="289dp"
+        android:layout_marginTop="471dp"
+        android:background="@drawable/button_o"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <android.widget.SeekBar
+        android:id="@+id/seekbar_row"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="91dp"
+        android:layout_marginEnd="43dp"
+        android:layout_marginTop="305dp"
+        android:max="9"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <android.widget.SeekBar
+        android:id="@+id/seekbar_col"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="91dp"
+        android:layout_marginEnd="43dp"
+        android:layout_marginTop="337dp"
+        android:max="9"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <android.widget.TextView
+        android:id="@+id/text_row"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="297dp"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <android.widget.TextView
+        android:id="@+id/text_col"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="329dp"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <android.widget.TextView
+        android:id="@+id/text_exp"
+        android:layout_width="335dp"
+        android:layout_height="235dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="64dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:scrollHorizontally="true"
+        android:scrollbars="horizontal"
+        tools:ignore="SpeakableTextPresentCheck"/>
+
+    <android.widget.Button
+        android:id="@+id/button_back"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/button_back"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <android.widget.Button
+        android:id="@+id/button_check"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="305dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/button_check"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/text_ans"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
